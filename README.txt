@@ -1,4 +1,4 @@
-A static website to show off with and have fun.
+A static website html website.
 
 ---- HTML5 Template info -----------------------------------------------------------
 Editorial by HTML5 UP
